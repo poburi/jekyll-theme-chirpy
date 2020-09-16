@@ -1,7 +1,7 @@
 ---
 title: 자바스크립트 Oop 얕은 복사, 깊은 복사 그리고 프로토타입
 author: Poburi
-date: 2020-09-13 19:34:00 +0800
+date: 2020-09-14 13:56:00 +0000
 categories: [Dev, JS]
 tags: [js]
 toc: true
