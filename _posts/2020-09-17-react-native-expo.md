@@ -2,8 +2,8 @@
 title: React Native Expo
 author: Poburi
 date: 2020-09-17 13:56:00 +0000
-categories: [Dev, CSS]
-tags: [css]
+categories: [Dev, React Native]
+tags: [react navtive]
 ---
 
 # 1
