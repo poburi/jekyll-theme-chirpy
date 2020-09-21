@@ -4,6 +4,7 @@ author: Poburi
 date: 2020-09-20 13:56:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
+pin: true
 ---
 
 # 왜 React Native를...
@@ -47,6 +48,10 @@ state의 잦은 변경은 자칫 불필요하게 빈번한 화면 render를 수�
   - react-navigation
     -  애플리케이션에서 필요한 화면전환 제공
     - 화면전환 뿐 아니라 여러 편리한 기능을 제공하는 [react-native-navigation](https://github.com/wix/react-native-navigation) 라이브러리도 있다.
+
+---
+#### 참고
+[우아한형제들](https://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 
 ---
 

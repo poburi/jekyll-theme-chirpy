@@ -5,8 +5,7 @@ date: 2020-09-13 19:34:00 +0800
 categories: [Dev, JS]
 tags: [js]
 toc: false
-pin: true
-
+pin: false
 ---
 
 # Math 메서드
