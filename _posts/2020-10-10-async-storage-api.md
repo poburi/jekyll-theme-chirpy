@@ -4,7 +4,7 @@ author: Poburi
 date: 2020-10-10 11:15:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
-pin: true
+pin: false
 ---
 
 LocalStorage와 비슷한 대체제로 앱에 전역적으로 적용되는 암호화되지 않은 비동기식 키-값 스토리지 시스템이다.

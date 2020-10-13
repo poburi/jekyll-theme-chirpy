@@ -4,7 +4,7 @@ author: Poburi
 date: 2020-09-20 13:56:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
-pin: true
+pin: false
 ---
 
 # 왜 React Native를...

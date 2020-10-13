@@ -4,7 +4,7 @@ author: Poburi
 date: 2020-10-10 16:32:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
-pin: true
+pin: false
 ---
 
 # Button

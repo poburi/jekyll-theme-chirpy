@@ -4,7 +4,7 @@ author: Poburi
 date: 2020-10-13 11:15:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
-pin: true
+pin: false
 ---
 
 # 개발 스팩
@@ -110,3 +110,13 @@ const initialize = async () => {
   authenticate(handleResult);
 }
 ```
+
+- 1초 후 반응하도록:
+
+```javascript
+useEffect(() => {
+    setTimeout(() => initialze(), 1000);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+```
+
