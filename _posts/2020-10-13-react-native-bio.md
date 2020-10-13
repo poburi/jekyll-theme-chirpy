@@ -88,6 +88,7 @@ const Biometrics = () => {
 ```
 
 - 가져다 쓰기:
+
 ```javascript
 const { authenticate, isSupported } = useBoimetrics();
 const handleResult = (result: boolean) => {
