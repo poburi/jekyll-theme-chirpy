@@ -1,5 +1,5 @@
 ---
-title: [React-Native] Async storage API 사용하여 토큰 로그인 처리
+title: React-Native Async storage API 사용하여 토큰 로그인 처리
 author: Poburi
 date: 2020-10-10 11:15:00 +0000
 categories: [Dev, React Native]
