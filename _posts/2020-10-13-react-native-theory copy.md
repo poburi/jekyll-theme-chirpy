@@ -19,9 +19,12 @@ npx react-native init AwesomeTSProject --template react-native-template-typescri
 | error An unexpected error occurred: "https://registry.yarnpkg.com/react-natvie-template-typescript: Not found".
 
 <blockquote 
-  style="background-color: rgba(255,229,100,.3);
+  style="
+  background-color: rgba(255,229,100,.3);
   border-left: 8px solid #ffe564;
-  padding: 15px 30px 15px 15px;"
+  padding: 15px 30px 15px 15px;
+  color: #000;
+  "
 >
   <strong>NOTE</strong> 위의 명령이 실패하면 이전 버전의 react-native 또는 react-native-cli가 PC에 전역 적으로 설치되어있을 수 있습니다. cli를 제거하고 npx를 사용하여 cli를 실행하십시오.
 </blockquote>
@@ -29,7 +32,7 @@ npx react-native init AwesomeTSProject --template react-native-template-typescri
 
 # 해결
 
-기존에 `cli` 삭제 하고 새로운 cli를 전역으로 설치하였다. 
+기존에 `cli` 삭제 하고 새로운 `cli`를 전역으로 설치하였다. 
 
 - 기존 레거시 cli 삭제:
 
