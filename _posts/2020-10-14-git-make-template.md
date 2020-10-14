@@ -65,7 +65,7 @@ cli로 RN 프로젝트를 생성하면 보통 `.js` 확장자로 세팅이 되�
 
 - netinfo
 
-- react-navigation
+- [react-navigation](https://reactnavigation.org/docs/getting-started)
 
 - moment
 
@@ -80,3 +80,27 @@ cli로 RN 프로젝트를 생성하면 보통 `.js` 확장자로 세팅이 되�
 - simple-toast
 
 - onesignal
+
+# Github에 올리기
+
+- 로컬 프로젝트에 git 초기화:
+
+```bash
+git init
+```
+
+- git repository url remote 연결:
+
+```bash
+git remote add origin "repository url"
+```
+
+- push
+
+---
+
+# 마무리
+
+사용할 때는 `Use This Template`를 눌러서 프로젝트를 만들어주면 된다.
+
+![image](https://user-images.githubusercontent.com/45615584/95935491-5ac31f00-0e0e-11eb-96ba-72f648a35400.png)
