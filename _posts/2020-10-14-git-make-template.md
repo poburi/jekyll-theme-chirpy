@@ -6,7 +6,7 @@ categories: [Dev, Git]
 tags: [git, github]
 ---
 
-React, React Native 프로젝트 할 때마다 매번 세팅 작업을 해주는 것은 매우 귀찮은 일이다.
+`React`, `React Native` 프로젝트 할 때마다 매번 세팅 작업을 해주는 것은 매우 귀찮은 일이다.
 
 그래서 깃허브에서 제공해주는 템플릿을 만들어 사용해봤다.
 
