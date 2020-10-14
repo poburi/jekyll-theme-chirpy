@@ -1,5 +1,5 @@
 ---
-title: React Native API 정리
+title: React Native API - Animated
 author: Poburi
 date: 2020-10-13 11:15:00 +0000
 categories: [Dev, React Native]
