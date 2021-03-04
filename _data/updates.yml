@@ -1,27 +1,6 @@
 -
-  filename: 'react-native-animated'
-  lastmod: '2020-10-14 11:36:37 +0900'
--
-  filename: 'javascript-oop-copy-and-refer'
-  lastmod: '2020-09-16 23:47:57 +0900'
--
-  filename: 'why-react-native'
-  lastmod: '2020-10-13 16:44:32 +0900'
--
-  filename: 'react-native-bio'
-  lastmod: '2020-10-13 17:24:59 +0900'
--
-  filename: 'react-native-theory'
-  lastmod: '2020-10-13 16:44:32 +0900'
--
-  filename: 'async-storage-api'
-  lastmod: '2020-10-13 16:44:32 +0900'
--
   filename: 'text-and-typography'
   lastmod: '2020-08-21 22:41:48 +0800'
--
-  filename: 'tip-material-ui-table'
-  lastmod: '2020-09-20 21:12:36 +0900'
 -
   filename: 'write-a-new-post'
   lastmod: '2020-08-21 22:41:48 +0800'
@@ -29,11 +8,32 @@
   filename: 'getting-started'
   lastmod: '2020-09-13 20:01:42 +0900'
 -
-  filename: 'git-make-template'
-  lastmod: '2020-10-14 11:17:57 +0900'
--
   filename: 'customize-the-favicon'
   lastmod: '2020-08-20 01:11:56 +0800'
 -
   filename: 'javascript-math-method'
   lastmod: '2020-09-21 09:53:14 +0900'
+-
+  filename: 'javascript-oop-copy-and-refer'
+  lastmod: '2020-09-16 23:47:57 +0900'
+-
+  filename: 'tip-material-ui-table'
+  lastmod: '2020-09-20 21:12:36 +0900'
+-
+  filename: 'why-react-native'
+  lastmod: '2020-10-13 16:44:32 +0900'
+-
+  filename: 'async-storage-api'
+  lastmod: '2020-10-13 16:44:32 +0900'
+-
+  filename: 'react-native-theory'
+  lastmod: '2020-10-13 16:44:32 +0900'
+-
+  filename: 'react-native-bio'
+  lastmod: '2020-10-13 17:24:59 +0900'
+-
+  filename: 'git-make-template'
+  lastmod: '2020-10-14 11:17:57 +0900'
+-
+  filename: 'react-native-animated'
+  lastmod: '2020-10-14 11:36:37 +0900'
