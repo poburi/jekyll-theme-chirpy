@@ -23,6 +23,9 @@
   filename: 'why-react-native'
   lastmod: '2020-10-13 16:44:32 +0900'
 -
+  filename: 'react-native-structure'
+  lastmod: '2021-03-04 22:09:31 +0900'
+-
   filename: 'async-storage-api'
   lastmod: '2020-10-13 16:44:32 +0900'
 -
@@ -37,3 +40,6 @@
 -
   filename: 'react-native-animated'
   lastmod: '2020-10-14 11:36:37 +0900'
+-
+  filename: 'notice'
+  lastmod: '2021-03-04 22:09:31 +0900'
