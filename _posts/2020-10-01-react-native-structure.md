@@ -4,7 +4,7 @@ author: Poburi
 date: 2020-10-01 09:15:00 +0000
 categories: [Dev, React Native]
 tags: [react navtive]
-pin: true
+pin: false
 ---
 
 # 폴더 구조
